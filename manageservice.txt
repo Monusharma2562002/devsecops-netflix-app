@@ -1,0 +1,7 @@
+
+opensearch
+elasticache
+keyspaces
+rds
+sqs
+

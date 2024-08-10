@@ -1,0 +1,10 @@
+[http]
+	postBuffer = 104857600
+	version = HTTP/1.1
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
+[core]
+	compression = 0
+[user]
+	email = monusharma2562002@gmail.com
+	name = Monu Sharma
